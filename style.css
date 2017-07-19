@@ -1,0 +1,25 @@
+
+
+header{
+  background-color: black;
+  color: white;
+  font-size: 36px;
+  text-align: center;
+  height: 100px;
+  padding-top: 50px;
+  border-bottom-style: dotted;
+
+}
+
+section{
+  display: flex;
+  align-items: center;
+}
+
+
+
+img {
+  border-radius: 50%;
+  width: 75%;
+
+}
